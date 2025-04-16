@@ -49,5 +49,7 @@
     },
     { "msgs": ["文采怎么样？是不是？"] },
     { "msgs": ["<img src='options/preview/感动到哭.png'/>"] },
-    { "msgs": ["演示完成..."], "msgInputSpeed": 80 }
+    { "msgs": ["最后，谐音下，417--->生生世世要你捏宝。"], "msgInputSpeed": 80 },
+    { "msgs": ["什么，好像谐音得有点牵强，不过这就是我的心意捏宝。mua~。"], "msgInputSpeed": 80 },
+    { "msgs": ["宝，演示结束啦！"] }
 ]
